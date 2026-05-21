@@ -32,3 +32,5 @@ Model Architecture:
 Results:
 - Achieved competitive accuracy on validation dataset
 - Model shows good generalization on unseen images
+
+Note: The trained model file is not included due to size constraints.  
